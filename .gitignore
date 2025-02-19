@@ -1,9 +1,9 @@
 # Ignore sensitive files related to credentials
-.credentials.json
-.google_account1.json
-.google_account2.json
-.token.json
-.token.pickle
+credentials.json
+google_account1.json
+google_account2.json
+token.json
+token.pickle
 
 # Ignore Python cache files
 __pycache__/
